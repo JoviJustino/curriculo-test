@@ -1,0 +1,3 @@
+display flex coloca no pai, para dizer como seus filhos iram se comportar
+align-items e justify-content dizem como que a gente vai se organizar(só consegue usar quandos e usa o display flex antes)
+
